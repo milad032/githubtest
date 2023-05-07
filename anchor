@@ -11,6 +11,7 @@ const uint8_t PIN_RST = 3; // 3reset pin
 const uint8_t PIN_IRQ = 7; // 7irq pin
 const uint8_t PIN_SS = 10; 
 
+salam azizam
 
 
 void setup() {
